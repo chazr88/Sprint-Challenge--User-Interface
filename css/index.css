@@ -240,7 +240,7 @@ footer nav a {
 }
 
 .about-main-content .logo {
-    margin-left: 5%;
+    margin-left: 40px;
 }
 
 .about-feature-pic {
@@ -249,29 +249,29 @@ footer nav a {
 }
 
 .about-content {
-    margin: 5% 0;
+    margin: 8px 2px;
     height: 120px;
     border-bottom: 1px dashed black;
 }
 
 .top-middle-content{
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-around;
 	
 }
 
 .bottom-middle-content{
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-around;
 }
 
 .middle-boxes {
     diaplay: flex;
-    justify-content: space-evenly;
-    width: 30%;
+    justify-content: space-around;
+    width: 350px;
     height: 420px;
     border-bottom: 1px dashed black;
-    margin: 2% 10% 5% 2%;
+    margin: 2%;
 }
 
 .middle-boxes h2{
