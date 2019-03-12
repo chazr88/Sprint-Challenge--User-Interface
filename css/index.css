@@ -104,7 +104,6 @@ p {
 .middle-content .boxes .box {
     width: 12.5%;
     height: 100px;
-    background: black;
     margin: 20px 2.5%;
     color: white;
     display: flex;
@@ -144,3 +143,162 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+
+/* Custom Home Styling */
+
+.index-main-content header {
+	display: flex;
+    margin: 2% 2% 2% 3%;
+    justify-content: center;
+}
+
+.index-main-content nav {
+	display: flex;
+	justify-content: space-evenly;
+	width: 37%;
+}
+
+.index-main-content nav a {
+	margin-top: 3%;
+	text-decoration: none;
+	color: #000;
+}
+
+.index-main-content .logo {
+    margin-left: 1%;
+}
+
+.feature-pic {
+    margin-bottom: 2%;
+}
+
+.box1 {
+    background: teal;
+}
+
+.box2 {
+    background: gold;
+}
+
+.box3 {
+    background: cadetblue;
+}
+
+.box4 {
+    background: coral;
+}
+
+.box5 {
+    background: crimson;
+}
+
+.box6 {
+    background: forestgreen;
+}
+
+.box7 {
+    background: darkorchid;
+}
+
+.box8 {
+    background: hotpink;
+}
+
+.box9 {
+    background: indigo;
+}
+
+.box10 {
+    background: dodgerblue;
+}
+
+/* End Custom Home Styling */
+
+/* Custom About Styling */
+
+.about-main-content {
+	margin: 0 25%;
+}
+
+.about-main-content header {
+    display: flex;
+    justify-content: space-evenly;
+    margin: 3% 0;
+}
+
+.about-main-content nav {
+    display: flex;
+    justify-content: space-evenly;
+    width: 70%;
+
+}
+
+.about-main-content nav a {
+    margin-top: 3%;
+	text-decoration: none;
+    color: #000;
+}
+
+.about-main-content .logo {
+    margin-left: 40px;
+}
+
+.about-feature-pic {
+    display: flex;
+    justify-content: center;
+}
+
+.about-content {
+    margin: 8px 2px;
+    height: 120px;
+    border-bottom: 1px dashed black;
+}
+
+.top-middle-content{
+    display: flex;
+    justify-content: space-around;
+	
+}
+
+.bottom-middle-content{
+    display: flex;
+    justify-content: space-around;
+}
+
+.middle-boxes {
+    diaplay: flex;
+    justify-content: space-around;
+    width: 350px;
+    height: 420px;
+    border-bottom: 1px dashed black;
+    margin: 2%;
+}
+
+.middle-boxes h2{
+    margin-top: 5%;
+}
+
+.about-main-content button {
+    width: 40%;
+	height: 8%;
+	background-color: #fff;
+	margin-top: 5%;
+    border-radius: 10px;
+    border: 2px solid #000;
+}
+
+.about-bottom-content {
+    margin: 4% 0 4% 5%;
+}
+
+.about-bottom-content p{
+
+}
+
+.about-main-content footer nav a {
+    margin-top: 3%;
+	text-decoration: none;
+    color: #fff;
+}
+
+
